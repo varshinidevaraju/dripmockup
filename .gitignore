@@ -1,0 +1,21 @@
+node_modules/
+dist/
+dist-ssr/
+*.log
+.vscode/
+.idea/
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Specific to this project
+hts-cache/
+hts-log.txt
+error.log
+framerusercontent.com/
+frameship-backend.account-ba7.workers.dev/
+knitknots.framer.website/
+cdn.shopify.com/
