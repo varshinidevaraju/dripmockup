@@ -12,6 +12,9 @@ dist-ssr/
 *.sw?
 
 # Specific to this project
+backup_old_root/
+errors.txt
+errors2.txt
 hts-cache/
 hts-log.txt
 error.log
